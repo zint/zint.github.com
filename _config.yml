@@ -1,3 +1,2 @@
-markdown: redcarpet
+markdown: rdiscount
 pygments: true
-
