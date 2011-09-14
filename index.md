@@ -11,6 +11,7 @@ A barcode encoding library supporting over 50 symbologies including Code 128, Da
 ## Download
 
 Zint may be downloaded from:
+
 * [https://github.com/downloads/zint/zint/zint-2.4.2.tar.gz](https://github.com/downloads/zint/zint/zint-2.4.2.tar.gz)
 * [https://github.com/downloads/zint/zint/Setup_Zint_2.4.2.0.exe](https://github.com/downloads/zint/zint/Setup_Zint_2.4.2.0.exe)
 * [https://github.com/downloads/zint/zint/zint_manual_242.pdf](https://github.com/downloads/zint/zint/zint_manual_242.pdf)
